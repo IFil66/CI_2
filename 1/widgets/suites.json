@@ -1,1 +1,1 @@
-{"total":1,"items":[{"uid":"1e61a91d00bfaa1d7425781ccf4ce065","name":"com.capital.ticTests.EN.commodities.CheckRegBtnTests","statistic":{"failed":144,"broken":49,"skipped":0,"passed":379,"unknown":0,"total":572}}]}
+{"total":1,"items":[{"uid":"e1f3f7142b1efe0365d0a202940285dc","name":"com.capital.ticTests.EN.indices.CheckRegBtnTests","statistic":{"failed":4,"broken":133,"skipped":0,"passed":227,"unknown":0,"total":364}}]}
